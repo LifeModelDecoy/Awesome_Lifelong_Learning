@@ -14,9 +14,9 @@ Lifelong Learning (LL) is an advanced machine learning (ML) paradigm that learns
 
 Lifelong Learning is now widely used in computer vision(CV), natural language processing(NLP) and many other fields. This repository colects some recent published papers to brief the forntline lifelong learning applications and some new methods applied to it.
 
-##Papers
+## Papers
 
-###CV(Computer Vision)
+### CV(Computer Vision)
 
 | Venue | Title                                                        |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | :--: |
@@ -44,7 +44,7 @@ Lifelong Learning is now widely used in computer vision(CV), natural language pr
 
 
 
-###NLP(Natural Language Processing)
+### NLP(Natural Language Processing)
 | Venue | Title                                                        |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | :--: |
 | Arxiv | **Voyager: An Open-Ended Embodied Agent with Large Language Models** | [Link](https://arxiv.org/pdf/2305.16291.pdf) |  [link](https://voyager.minedojo.org) |
@@ -59,7 +59,7 @@ Lifelong Learning is now widely used in computer vision(CV), natural language pr
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | :--: |
 | Arxiv | **Continual Multimodal Knowledge Graph Construction** | [Link](https://arxiv.org/pdf/2305.08698.pdf) |  [link](https://github.com/zjunlp/ContinueMKGC) |
 | Arxiv | **The Study of Highway for Lifelong Multi-Agent Path Finding**   | [Link](https://arxiv.org/pdf/2304.04217.pdf) |  -   |
-| Arxiv | **https://arxiv.org/abs/2303.07557** | [Link](https://arxiv.org/pdf/2303.07557.pdf) |  -   |
+| Arxiv | **Lifelong Learning for Anomaly Detection: New Challenges, Perspectives, and Insights** | [Link](https://arxiv.org/pdf/2303.07557.pdf) |  -   |
 | Arxiv | **Lifelong Machine Learning Potentials** | [Link](https://arxiv.org/pdf/2303.05911.pdf) |  -   |
 | Arxiv | **World Models and Predictive Coding for Cognitive and Developmental Robotics: Frontiers and Challenges** | [Link](https://arxiv.org/pdf/2301.05832.pdf) |  -   |
 | Arxiv | **Online Class-Incremental Learning For Real-World Food Classification** | [Link](https://arxiv.org/pdf/2301.05246.pdf) |  -   |
@@ -67,8 +67,7 @@ Lifelong Learning is now widely used in computer vision(CV), natural language pr
 | Arxiv | **Dissecting Continual Learning a Structural and Data Analysis** | [Link](https://arxiv.org/pdf/2301.01033.pdf) |  -   |
 | IEEE | **Lifelong Bayesian Learning Machines for Streaming Industrial Big Data** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874385) |  -   |
 | IEEE | **Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10014536) |  -   |
-| IEEE | **
-Promoting Occupancy Detection Accuracy Using On-Device Lifelong Learning** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081223) |  -   |
+| IEEE | **Promoting Occupancy Detection Accuracy Using On-Device Lifelong Learning** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081223) |  -   |
 | IEEE | **Lifelong Property Price Prediction: A Case Study for the Toronto Real Estate Market** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9551724) |  -   |
 | 2023 | **ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9690769) |  -   |
 | 2023 | **ICAM-Reg: Interpretable Classification and Regression With Feature Attribution for Mapping Neurological Phenotypes in Individual Scans** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9947339) |  -   |
@@ -95,7 +94,7 @@ Promoting Occupancy Detection Accuracy Using On-Device Lifelong Learning** | [Li
 
 ## Benchmark Datasets
 
-We divide the datasets into two categories, i.e. graph datasets and non-graph datasets. Graph datasets are some graphs in real-world, such as citation networks, social networks and so on. Non-graph datasets are NOT graph type. However, if necessary, we could construct "adjacency matrices"  by K-Nearest Neighbors (KNN) algorithm.
+According to the datasets' usage, we divide them into two categories, i.e. CV datasets and NLP datasets. CV datasets are some images used to train CV networks. NLP datasets are texts used to train large language models.
 
 
 
