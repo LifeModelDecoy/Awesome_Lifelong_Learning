@@ -27,7 +27,7 @@ Lifelong Learning (LL) is an advanced machine learning (ML) paradigm that learns
 | 2023 | **Task-Aware Information Routing from Common Representation Space in Lifelong Learning** | [Link](https://arxiv.org/pdf/2302.11346.pdf) |  [link](https://github.com/neurai-lab/tamil)   |
 | 2023 | **Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning** | [Link](https://arxiv.org/pdf/2302.11344.pdf) |   [link](https://github.com/neurai-lab/esmer)   |
 | 2023 | **A Domain-Agnostic Approach for Characterization of Lifelong Learning Systems** | [Link](https://arxiv.org/abs/2301.07799) |  -   |
-| 2023 | **** | [Link]() |  -   |
+| 2023 | **Dynamic Self-Supervised Teacher-Student Network Learning** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9944861) |  -   |
 | 2023 | **** | [Link]() |  -   |
 | 2023 | **** | [Link]() |  -   |
 | 2023 | **** | [Link]() |  -   |
@@ -64,8 +64,9 @@ Lifelong Learning (LL) is an advanced machine learning (ML) paradigm that learns
 | 2023 | **Online Class-Incremental Learning For Real-World Food Classification** | [Link](https://arxiv.org/pdf/2301.05246.pdf) |  -   |
 | 2023 | **Sparse Coding in a Dual Memory System for Lifelong Learning** | [Link](https://arxiv.org/pdf/2301.05058.pdf) |   [link](https://github.com/neurai-lab/scommer)   |
 | 2023 | **Dissecting Continual Learning a Structural and Data Analysis** | [Link](https://arxiv.org/pdf/2301.01033.pdf) |  -   |
-| 2023 | **** | [Link]() |  -   |
-| 2023 | **** | [Link]() |  -   |
+| 2023 | **Lifelong Bayesian Learning Machines for Streaming Industrial Big Data** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874385) |  -   |
+| 2023 | **Data-Driven Indoor Positioning Correction for Infrastructure-Enabled Autonomous Driving Systems: A Lifelong Framework** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10014536) |  -   |
+
 
 
 
@@ -74,11 +75,20 @@ Lifelong Learning (LL) is an advanced machine learning (ML) paradigm that learns
 | Year | Title                                                        |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :----------------------------------------------------------: | :--: |
 | 2023 | **Federated Foundation Models: Privacy-Preserving and Collaborative Learning for Large Models** | [Link](https://arxiv.org/pdf/2305.11414.pdf) |  - |
-| 2023 | **Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks** | [Link]([https://arxiv.org/abs/2211.12875](https://arxiv.org/abs/2305.10997)) |  [Link](https://github.com/DMIU-ShELL/deeprl-shell) |
+| 2023 | **Sharing Lifelong Reinforcement Learning Knowledge via Modulating Masks** | [Link](https://arxiv.org/abs/2305.10997) |  [Link](https://github.com/DMIU-ShELL/deeprl-shell) |
 | 2023 | **Towards Lifelong Learning for Software Analytics Models: Empirical Study on Brown Build and Risk Prediction** | [Link](https://arxiv.org/pdf/2305.09824.pdf) |  -   |
 | 2023 | **Generating Accurate Virtual Examples For Lifelong Machine Learning** | [Link](https://arxiv.org/pdf/2302.14712.pdf) |  -   |
 | 2023 | **The configurable tree graph (CT-graph): measurable problems in partially observable and distal reward environments for lifelong reinforcement learning** | [Link](https://arxiv.org/pdf/2302.10887.pdf) |  [link](https://github.com/soltoggio/ct-graph)   |
 | 2013 | **Streaming LifeLong Learning With Any-Time Inference** | [Link](https://arxiv.org/abs/2301.10119) |  -   |
+| 2023 | **Lifelong Mixture of Variational Autoencoders** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9509343) |  -   |
+| 2023 | **Meta-Learning Based Tasks Similarity Representation for Cross Domain Lifelong Learning** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10092577) |  -   |
+| 2023 | **Hierarchical Lifelong Machine Learning With “Watchdog”** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9531470) |  -   |
+| 2023 | **A Lifelong Learning Method Based on Generative Feature Replay for Bearing Diagnosis With Incremental Fault Types** | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107680) |  -   |
+| 2023 | **** | [Link]() |  -   |
+| 2023 | **** | [Link]() |  -   |
+| 2023 | **** | [Link]() |  -   |
+| 2023 | **** | [Link]() |  -   |
+| 2023 | **** | [Link]() |  -   |
 
 ## Benchmark Datasets
 
