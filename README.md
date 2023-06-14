@@ -125,3 +125,4 @@ According to the datasets' usage, we divide them into two categories, i.e. CV da
    |   WMT16   | [link](https://huggingface.co/datasets/wmt16) |
    |   GLUE   | [link](https://huggingface.co/datasets/glue) |
    |  DecaNLP  | [link](https://parl.ai/docs/tasks.html#decanlp:-the-natural-language-decathlon) |
+   This repository is licensed under the [MIT License](LICENSE).
